@@ -1,0 +1,50 @@
+# Jupyter Notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Virtual environment folders (adjust if using another name)
+.venv/
+env/
+venv/
+
+# Jupyter runtime files
+*.pid
+*.log
+
+# Anaconda/conda files
+*.conda
+*.env
+*.bak
+*.swp
+anaconda_projects/
+
+# Hidden system files
+ehthumbs.db
+Icon?
+desktop.ini
+
+# VSCode and JetBrains (PyCharm) IDE folders
+.vscode/
+.idea/
+
+# Notebook metadata and temp files
+*.nbconvert.ipynb
+*.nbformat
+*.tmp.ipynb
+
+# CatBoost logs or cache if large
+catboost_info/
+
+# If any large model weights or outputs are generated later
+*.h5
+*.pkl
+*.joblib
+*.sav
