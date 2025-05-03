@@ -35,9 +35,9 @@ We used the **Diabetes 130-US hospitals for years 1999–2008** dataset.
 - Stay duration: 1–14 days
 - Lab tests and medications recorded
 
-📎 [UCI Repository](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008)  
-📎 [Original Paper (Supplementary Materials)](https://academic.oup.com/jamia/article/21/2/263/703218)
-
+📎 [Kaggle - Diabetes 130 US hospitals for years 1999-2008](https://www.kaggle.com/brandao/diabetes)  
+📎 [Original paper with data](https://www.hindawi.com/journals/bmri/2014/781670/) - go to Supplementary Materials section   
+📎 [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008)  
 ---
 
 ## ⚙️ Installation & Setup
